@@ -1,0 +1,67 @@
+.section-box {
+  background: #ffffff;
+  border: 1px solid #cccccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.simple-input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+  margin-top: 8px;
+}
+
+.section-text {
+  margin-top: 10px;
+}
+
+.user-card {
+  border: 1px solid #dddddd;
+  border-radius: 8px;
+  padding: 12px;
+  margin-top: 12px;
+}
+
+.user-top {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.user-image,
+.user-initials {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+}
+
+.user-image {
+  object-fit: cover;
+}
+
+.user-initials {
+  background: #f472b6;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.user-name,
+.user-detail {
+  margin: 0;
+}
+
+.user-detail {
+  color: #666666;
+  margin-top: 4px;
+}
+
+.error-text {
+  color: red;
+}

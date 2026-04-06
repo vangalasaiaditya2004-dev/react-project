@@ -1,0 +1,19 @@
+.home-page {
+  min-height: 100vh;
+  background-color: #f2f2f2;
+  padding: 20px 20px 90px;
+}
+
+.home-container {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.section-box {
+  background: #ffffff;
+  border: 1px solid #cccccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,53 @@
+.section-box {
+  background: #ffffff;
+  border: 1px solid #cccccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.section-text {
+  margin-top: 10px;
+}
+
+.logout-button {
+  margin-top: 20px;
+  padding: 10px 14px;
+  border: none;
+  background: #0095f6;
+  color: #ffffff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.profile-status-box,
+.profile-posts {
+  margin-top: 20px;
+}
+
+.profile-story {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.profile-story-circle,
+.profile-story-image {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.profile-story-circle {
+  background: pink;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.profile-story-image {
+  object-fit: cover;
+}

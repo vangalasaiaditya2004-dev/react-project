@@ -1,0 +1,48 @@
+.stories-box,
+.posts-box {
+  background: #ffffff;
+  border: 1px solid #cccccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.stories-list {
+  display: flex;
+  gap: 20px;
+  overflow-x: auto;
+}
+
+.story-item {
+  text-align: center;
+  min-width: 70px;
+}
+
+.story-circle {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: pink;
+  margin: 0 auto 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.story-image {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 8px;
+}
+.story-item p {
+  margin: 0;
+}
+
+.error-text {
+  color: red;
+}

@@ -1,0 +1,46 @@
+.section-box {
+  background: #ffffff;
+  border: 1px solid #cccccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.reel-box {
+  padding: 15px;
+  border: 1px solid #dddddd;
+  border-radius: 8px;
+  margin-top: 15px;
+  background: #ffffff;
+}
+
+.reel-image {
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+}
+
+.reel-title {
+  margin: 10px 0 0;
+}
+
+.reel-user-name {
+  margin: 10px 0 0;
+  color: #0095f6;
+}
+
+.reel-text {
+  margin: 10px 0 0;
+}
+
+.reel-hint {
+  margin: 15px 0 0;
+  color: #666666;
+  font-size: 14px;
+}
+
+.error-text {
+  color: red;
+}

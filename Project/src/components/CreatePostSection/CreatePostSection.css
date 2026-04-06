@@ -1,0 +1,42 @@
+.section-box {
+  background: #ffffff;
+  border: 1px solid #cccccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.create-form {
+  display: grid;
+  gap: 12px;
+  margin-top: 15px;
+}
+
+.simple-input,
+.simple-textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+}
+
+.simple-textarea {
+  height: 100px;
+  resize: none;
+}
+
+.preview-image {
+  width: 100%;
+  max-height: 250px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.create-form button {
+  padding: 10px 14px;
+  border: none;
+  background: #0095f6;
+  color: #ffffff;
+  border-radius: 4px;
+  cursor: pointer;
+}

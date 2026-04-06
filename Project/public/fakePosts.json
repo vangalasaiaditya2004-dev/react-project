@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Aman",
+    "place": "Chennai",
+    "text": "Enjoying the weekend with friends."
+  },
+  {
+    "id": 2,
+    "name": "Priya",
+    "place": "Hyderabad",
+    "text": "Had a great coffee today."
+  },
+  {
+    "id": 3,
+    "name": "Rahul",
+    "place": "Mumbai",
+    "text": "Learning React step by step."
+  },
+  {
+    "id": 4,
+    "name": "Neha",
+    "place": "Delhi",
+    "text": "Working on my frontend project."
+  }
+]
