@@ -1,4 +1,5 @@
-# Instagram Clone Frontend
+# Instagram Clone
+
 
 This is a beginner-friendly Instagram clone frontend built with React and Vite.
 
